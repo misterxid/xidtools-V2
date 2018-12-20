@@ -31,7 +31,7 @@ figlet "MR XiD"|lolcat
 echo "              [=======================[+]=====================]"|lolcat
 echo "              [  Author :  -------------MR_XiD--------------  ]"
 echo "              [===============================================]"|lolcat
-echo "              [  EMAIL  :    safri4687gmail.com@gmail.com     ]"
+echo "              [  EMAIL  :    safri4687@gmail.com     ]"
 echo "              [  TEAM   :    D35TR0Y SQUAD                    ]"
 echo "              [  WA     :    083851312460                     ]"
 echo "              [===============================================]"|lolcat
